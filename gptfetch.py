@@ -5,7 +5,7 @@ es = AsyncElasticsearch()
 # Initialize elasticsearch instance or connection
 es = Elasticsearch(
         hosts=["https://localhost:9200"],
-        http_auth=('elastic', '+ocWHuuGH5wPcUG1*7O5'),
+        http_auth=('username', 'password'),
         verify_certs=False
     )
 
