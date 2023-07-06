@@ -2,7 +2,9 @@
 <body>
 
 <h1>Welcome to The Shire's Library: Elasticsearch and GPT-3 Guide</h1>
-![sardistic_lord_of_the_rings_style_fantasy_art_from_the_book_wit_873579ab-0144-4f0c-a38b-9703eda73084](https://github.com/sardistic/DataPathways/assets/11499173/4e747c60-4214-4f5c-953f-8bef1abec227)
+
+![sardistic_lord_of_the_rings_style_fantasy_art_from_the_book_wit_873579ab-0144-4f0c-a38b-9703eda73084](https://github.com/sardistic/DataPathways/assets/11499173/7ce88959-ca01-4124-b9ba-c444447abd6b)
+
 
 <h2>Overview: This is currently WIP and is non-functioning</h2>
 
